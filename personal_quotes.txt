@@ -1,5 +1,9 @@
 1. Strength through Struggle - Michael Choi
 
+<<<<<<< HEAD
 2. I like green - Jay Patel
+=======
+2. I like yello- Jay Patel
+>>>>>>> personal_colour
 
 
